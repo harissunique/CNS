@@ -29,8 +29,8 @@ becomes C. To change a message back, each letter is replaced by the one three be
 
 ## PROGRAM :-
 
-# Developed By : HARISHKUMAR R
-# REGISTER NO  : 212223230073
+### Developed By : HARISHKUMAR R
+###  REGISTER NO  : 212223230073
 
 ```c
 #include <stdio.h>
